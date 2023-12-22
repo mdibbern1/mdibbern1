@@ -8,7 +8,7 @@ Hey there! Ive been studying comuter science at Towson University since 2019 and
 
 * 🌍  I'm based in Baltimore, MD
 * 🚀  I'm currently working on [Oceans](http://oceans-prod-v1.vercel.app/)
-* 🧠  I'm learning Software Engineering, Machine Learning, Blockchain
+* 🧠  I'm learning Software Engineering, Machine Learning, and Blockchain technology
 
 ### Skills
 

@@ -8,7 +8,7 @@ Hey there! Ive been studying Computer Science at Towson University since 2019 an
 
 * 🌍  I'm based in Baltimore, MD
 * 🚀  I'm currently working on [Oceans](http://oceans-prod-v1.vercel.app/)
-* 🧠  I'm learning Software Engineering, Machine Learning, and Blockchain technology
+* 🧠  I'm actively studying Software Engineering, Machine Learning, and Blockchain Technology to enhance my skills in these domains.
 
 ### Skills
 

@@ -6,10 +6,6 @@ Aspiring SWE & ML Engineer
 
 Hey there! Ive been studying Computer Science at Towson University since 2019 and got my Bachelor of Science degree in December 2023 and am now working towards my Masters Degree in Computer Science with a track in Software Engineering! When im not studying course material, I find myself exploring new topics in computer science or diving deeper in some of my favorite topics. Beyond computer science, I also like to explore topics in mathematics and have a passion for cars!
 
-* 🌍  I'm based in Baltimore, MD
-* 🚀  I'm currently working on [Oceans](http://oceans-prod-v1.vercel.app/)
-* 🧠  I'm actively studying Software Engineering, Machine Learning, and Blockchain Technology to enhance my skills in these domains.
-
 ### Skills
 
 <p align="left">

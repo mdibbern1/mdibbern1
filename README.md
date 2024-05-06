@@ -1,4 +1,4 @@
-Hi 👋 My name is Matt
+Hey there! 👋 My name is Matt
 =====================
 
 Aspiring SWE & ML Engineer

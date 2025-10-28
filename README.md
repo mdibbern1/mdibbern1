@@ -1,10 +1,10 @@
 Hey there, my name is Matt 👋
 =====================
 
-Software Engineer, Full Stack Engineer & Aspiring ML Engineer and Mobile Developer
+Software Engineer
 --------------------------
 
-I've been studying Computer Science at Towson University since 2019. I earned my Bachelor of Science degree in December of 2023 and graduated Magna Cum Laude. I have decided to go back for my Masters Degree in Computer Science with a track in Data Science! When im not studying course material, I find myself exploring new topics in computer science or diving deeper in some of my favorite topics. Beyond computer science, I also like to explore topics in mathematics and have a passion for cars!
+Im a Co-Founder of GoPanda and a Software Engineer I at FloQast. Im a current Masters degree student at Towson University with a track in Data Science. I earned my Bachelor of Science degree in December of 2023 and graduated Magna Cum Laude. Outside of software, i love to explore topics in math and have a passion for cars!
 
 ### Skills
 
